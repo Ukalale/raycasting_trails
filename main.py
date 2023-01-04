@@ -5,7 +5,6 @@ from map import *
 from player import *
 from raycasting import *
 from object_renderer import *
-
 class Game:
     def __init__(self):
         pg.init()  # pygame modules
